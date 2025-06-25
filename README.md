@@ -59,4 +59,5 @@ PasswordGenerator/
 ---
 UI PREVIEW
 
-￼
+![App Screenshot](sc.png)
+
