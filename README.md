@@ -25,7 +25,7 @@ PasswordGenerator/
 - Password strength indicator
 - Copy password to clipboard with one click
 - Responsive, modern design
-
+  
 ---
 
 ## 🧩 Components Explained
@@ -57,5 +57,6 @@ PasswordGenerator/
 - Handles clipboard copy functionality
 
 ---
+UI PREVIEW
 
 ￼
